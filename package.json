@@ -1,0 +1,29 @@
+{
+  "name": "invert-key-value",
+  "version": "1.0.0",
+  "description": "Invert key-value pairs of an object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexprabhat/invert-key-value.git"
+  },
+  "author": "Alex Prabhat Bara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexprabhat/invert-key-value/issues"
+  },
+  "homepage": "https://github.com/alexprabhat/invert-key-value#readme",
+  "exports": "./index.js",
+  "type": "module",
+  "keywords": [
+		"object",
+		"key",
+		"value",
+		"invert",
+		"keys",
+		"values"
+	]
+}
